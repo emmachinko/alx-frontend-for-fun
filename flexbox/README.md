@@ -1,0 +1,1 @@
+Flexbox, or the Flexible Box Layout, is a CSS layout model designed to provide a more efficient way to arrange elements within a container, even when their size is unknown or dynamic. Here are some key concepts and properties related to Flexbox
